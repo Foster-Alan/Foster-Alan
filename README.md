@@ -1,5 +1,7 @@
 Olá, eu sou o Foster ! 
 Bem vindo ao meu perfil GitHub 👋
 
-        <i class="devicon-react-original-wordmark"></i>
+          
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
