@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Fortaleza, CE
-* ✉️  You can contact me at [ala-af@outlook.com](mailto:alan-af@outlook.com)
+* ✉️  You can contact me at [alan-af@outlook.com](mailto:alan-af@outlook.com)
 
 ### Skills
 
