@@ -7,7 +7,7 @@ Web devoloper
 Apaixonado por raciocínio logico sigo me aventurando em busca do próximo desafio.
 
 * 🌍  Atualmente moro em: Fortaleza, CE
-* ✉️  Contato [ala-af@outlook.com](mailto:ala-af@outlook.com)
+* ✉️  Contato [alan-af@outlook.com](mailto:alan-af@outlook.com)
 * ⚡  B-Boy
 
 ### Skills
