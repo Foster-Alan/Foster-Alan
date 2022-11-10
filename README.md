@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Foster
+Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me Chamo Foster
 ==============================================================================================================================
 
 Web devoloper
@@ -6,8 +6,8 @@ Web devoloper
 
 Apaixonado por raciocínio logico sigo me aventurando em busca do próximo desafio.
 
-* 🌍  I'm based in Fortaleza, CE
-* ✉️  You can contact me at [ala-af@outlook.com](mailto:ala-af@outlook.com)
+* 🌍  Atualmente moro em: Fortaleza, CE
+* ✉️  Contato [ala-af@outlook.com](mailto:ala-af@outlook.com)
 * ⚡  B-Boy
 
 ### Skills
