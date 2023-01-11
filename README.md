@@ -1,7 +1,7 @@
 Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me Chamo Foster
 ==============================================================================================================================
 
-Web devoloper
+Desenvolvedor Front-End
 -------------
 
 Apaixonado por raciocínio logico sigo me aventurando em busca do próximo desafio.
